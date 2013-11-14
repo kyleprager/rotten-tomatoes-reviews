@@ -1,0 +1,9 @@
+{
+  "name": "RottenTomatoesReviews",
+  "description": "Downloads and parses Rotten Tomatoes reviews for comedic purposes.",
+  "author": "Kyle Prager <kyleprager@gmail.com>",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "engine": "node >= 0.10.x"
+}
